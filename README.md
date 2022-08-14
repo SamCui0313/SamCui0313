@@ -1,6 +1,6 @@
 ### SamCui0313 👋
 #### 初中生
-#### 爱好编程（自学）
+#### 编程是自学的
 #### 代码是课余时间写的
 <!--
 **SamCui0313/SamCui0313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
